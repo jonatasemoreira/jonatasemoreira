@@ -3,22 +3,9 @@
 
 My name is Jonatas Moreira, I live in Brazil (🇧🇷). I have worked as a Software developer since 2023, and I have experience as a Front End developer.
 
-
-
-
-
 ## Technologies in my daily life
 
-<style>
-  .container-skills {
-    width: 90%;
-    margin: 0 auto;
-    backgroung-color: red;
-  }
-</style>
-
-
-<div class='container-skills'>
+<div>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img align="center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
