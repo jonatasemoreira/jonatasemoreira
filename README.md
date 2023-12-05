@@ -1,4 +1,4 @@
-### Hello welcome! \O/👋
+### Hello welcome! 👋
 
 
 My name is Jonatas Moreira, I live in Brazil (🇧🇷). I have worked as a Software developer since 2023, and I have experience as a Front End developer.
